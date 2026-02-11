@@ -1,0 +1,9 @@
+{
+	"name": "sstine-azure-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d1866cb-e0dc-4c3d-a4d6-9af99bfe5101",
+		"tenantId": "90348580-ab10-4310-a90a-c0676a63a639"
+	}
+}
